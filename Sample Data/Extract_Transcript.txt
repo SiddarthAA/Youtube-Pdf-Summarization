@@ -1,0 +1,100 @@
+[7.32 - 13.20] It's 4 a.m.,  and the big test is in eight hours,
+[13.20 - 16.12] followed by a piano recital.
+[16.12 - 21.89] You've been studying and playing for days, but you still don't feel ready for either.
+[21.89 - 23.32] So, what can you do?
+[23.32 - 25.32] Well, you can drink another cup of coffee
+[25.32 - 28.08] and spend the next few hours  cramming and practicing,
+[28.08 - 30.00] but believe it or not,
+[30.00 - 33.48] you might be better off closing the books, putting away the music,
+[33.48 - 35.82] and going to sleep.
+[35.82 - 38.18] Sleep occupies nearly  a third of our lives,
+[38.18 - 43.15] but many of us give surprisingly little attention and care to it.
+[43.15 - 46.73] This neglect is often the result  of a major misunderstanding.
+[46.73 - 48.64] Sleep isn't lost time,
+[48.64 - 52.33] or just a way to rest  when all our important work is done.
+[52.33 - 54.34] Instead, it's a critical function,
+[54.34 - 58.76] during which your body balances and regulates its vital systems,
+[58.76 - 60.35] affecting respiration
+[60.35 - 65.44] and regulating everything from circulation to growth and immune response.
+[65.44 - 70.82] That's great, but you can worry about  all those things after this test, right?
+[70.82 - 72.44] Well, not so fast.
+[72.44 - 75.47] It turns out that sleep  is also crucial for your brain,
+[75.47 - 78.17] with a fifth of your body's  circulatory blood
+[78.17 - 80.85] being channeled to it as you drift off.
+[80.85 - 83.46] And what goes on  in your brain while you sleep
+[83.46 - 86.54] is an intensely active period  of restructuring
+[86.54 - 89.36] that's crucial for how our memory works.
+[89.36 - 90.36] At first glance,
+[90.36 - 94.25] our ability to remember things  doesn't seem very impressive at all.
+[94.25 - 97.04] 19th century psychologist  Herman Ebbinghaus
+[97.04 - 100.91] demonstrated that we normally forget 40% of new material
+[100.91 - 103.39] within the first twenty minutes,
+[103.39 - 107.13] a phenomenon known as the forgetting curve.
+[107.13 - 110.73] But this loss can be prevented  through memory consolidation,
+[110.73 - 113.29] the process by which information is moved
+[113.29 - 118.90] from our fleeting short-term memory to our more durable long-term memory.
+[118.90 - 122.62] This consolidation occurs with the help of a major part of the brain,
+[122.62 - 125.34] known as the hippocampus.
+[125.34 - 127.36] Its role in long-term memory formation
+[127.36 - 131.37] was demonstrated in the 1950s by Brenda Milner
+[131.37 - 134.66] in her research with  a patient known as H.M.
+[134.66 - 136.96] After having his hippocampus removed,
+[136.96 - 141.32] H.M.'s ability to form new short-term memories was damaged,
+[141.32 - 145.89] but he was able to learn physical tasks through repetition.
+[145.89 - 147.72] Due to the removal of his hippocampus,
+[147.72 - 152.29] H.M.'s ability to form long-term memories was also damaged.
+[152.29 - 154.44] What this case revealed, among other things,
+[154.44 - 157.36] was that the hippocampus  was specifically involved
+[157.36 - 162.06] in the consolidation of long-term declarative memory,
+[162.06 - 165.32] such as the facts and concepts you need to remember for that test,
+[165.32 - 167.12] rather than procedural memory,
+[167.12 - 171.73] such as the finger movements you need to master for that recital.
+[171.73 - 175.39] Milner's findings, along with work  by Eric Kandel in the 90's,
+[175.39 - 180.75] have given us our current model  of how this consolidation process works.
+[180.75 - 182.80] Sensory data is initially transcribed
+[182.80 - 187.07] and temporarily recorded in the neurons as short-term memory.
+[187.07 - 189.62] From there, it travels to the hippocampus,
+[189.62 - 193.15] which strengthens and enhances  the neurons in that cortical area.
+[193.15 - 195.37] Thanks to the phenomenon of neuroplasticity,
+[195.37 - 200.34] new synaptic buds are formed, allowing new connections between neurons,
+[200.34 - 202.18] and strengthening the neural network
+[202.18 - 205.93] where the information will be returned as long-term memory.
+[205.93 - 208.80] So why do we remember some things and not others?
+[208.80 - 210.69] Well, there are a few ways to influence
+[210.69 - 214.30] the extent and effectiveness  of memory retention.
+[214.30 - 218.44] For example, memories that are formed in times of heightened feeling,
+[218.44 - 219.47] or even stress,
+[219.47 - 224.73] will be better recorded due to  the hippocampus' link with emotion.
+[224.73 - 228.72] But one of the major factors contributing to memory consolidation is,
+[228.72 - 229.89] you guessed it,
+[229.89 - 231.88] a good night's sleep.
+[231.88 - 234.21] Sleep is composed of four stages,
+[234.21 - 236.95] the deepest of which are known as slow-wave sleep
+[236.95 - 239.23] and rapid eye movement.
+[239.23 - 242.39] EEG machines monitoring people during these stages
+[242.39 - 244.38] have shown electrical impulses
+[244.38 - 249.69] moving between the brainstem, hippocampus, thalamus, and cortex,
+[249.69 - 253.53] which serve as relay stations  of memory formation.
+[253.53 - 256.90] And the different stages of sleep have been shown to help consolidate
+[256.90 - 259.11] different types of memories.
+[259.11 - 262.56] During the non-REM slow-wave sleep,
+[262.56 - 266.12] declarative memory is encoded  into a temporary store
+[266.12 - 268.95] in the anterior part of the hippocampus.
+[268.95 - 272.79] Through a continuing dialogue  between the cortex and hippocampus,
+[272.79 - 275.50] it is then repeatedly reactivated,
+[275.50 - 281.00] driving its gradual redistribution to long-term storage in the cortex.
+[281.00 - 284.88] REM sleep, on the other hand, with its similarity to waking brain activity,
+[284.88 - 288.47] is associated with the consolidation of procedural memory.
+[288.47 - 290.31] So based on the studies,
+[290.31 - 293.53] going to sleep three hours after  memorizing your formulas
+[293.53 - 298.52] and one hour after practicing your scales would be the most ideal.
+[298.51 - 301.02] So hopefully you can see now that skimping on sleep
+[301.02 - 303.29] not only harms your long-term health,
+[303.29 - 305.07] but actually makes it less likely
+[305.07 - 309.42] that you'll retain all that knowledge and practice from the previous night,
+[309.42 - 313.54] all of which just goes to affirm the wisdom of the phrase, "Sleep on it."
+[313.54 - 315.64] When you think about  all the internal restructuring
+[315.64 - 319.37] and forming of new connections that occurs while you slumber,
+[319.37 - 321.28] you could even say that proper sleep
+[321.28 - 325.09] will have you waking up every morning with a new and improved brain,
+[325.09 - 327.59] ready to face the challenges ahead.
