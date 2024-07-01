@@ -26,8 +26,8 @@ Welcome to the **Automated Content Summarization and Interactive QA System** rep
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/SiddarthAA/Youtube-Pdf-Summarization.git
+   cd Youtube-Pdf-Summarization
    ```
 
 2. **Install Dependencies:**
